@@ -1,0 +1,25 @@
+{
+  "name": "cc-node-app",
+  "version": "0.0.1",
+  "description": "Commerce Cloud Node.js Demo Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longjasonm/cc-node-app.git"
+  },
+  "author": "Jason Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longjasonm/cc-node-app/issues"
+  },
+  "homepage": "https://github.com/longjasonm/cc-node-app#readme",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "inquirer": "^6.2.0",
+    "mongoose": "^5.3.1",
+    "replace-in-file": "^3.4.2"
+  }
+}
